@@ -1,0 +1,83 @@
+{
+  "aquariums": [
+    {"id": 1, "name": "Аквариум 50л", "price": 3000, "category": "aquariums", "description": "Компактный стеклянный аквариум. Размеры: 50x30x30 см.", "image": "aquarium1.jpg"},
+    {"id": 2, "name": "Аквариум 100л", "price": 5000, "category": "aquariums", "description": "Стандартный объем. Размеры: 80x35x35 см.", "image": "aquarium2.jpg"},
+    {"id": 3, "name": "Аквариум 200л", "price": 9000, "category": "aquariums", "description": "Просторный аквариум для больших рыб. Размеры: 100x40x50 см.", "image": "aquarium3.jpg"},
+    {"id": 4, "name": "Аквариум 300л", "price": 12000, "category": "aquariums", "description": "Просторный аквариум для морских рифов. Размеры: 120x45x55 см.", "image": "aquarium4.jpg"},
+    {"id": 5, "name": "Nano аквариум 10л", "price": 5000, "category": "aquariums", "description": "Миниатюрный аквариум для небольших видов. Размеры: 25x20x20 см.", "image": "aquarium5.jpg"},
+    {"id": 6, "name": "Аквариум 400л", "price": 15000, "category": "aquariums", "description": "Прочный аквариум для профессионалов. Размеры: 130x50x60 см.", "image": "aquarium6.jpg"},
+    {"id": 7, "name": "Аквариум 600л", "price": 20000, "category": "aquariums", "description": "Большой аквариум для экзотических морских видов. Размеры: 150x60x70 см.", "image": "aquarium7.jpg"},
+    {"id": 8, "name": "Аквариум 50л с LED", "price": 4500, "category": "aquariums", "description": "Компактный с встроенным LED освещением. Размеры: 50x30x30 см.", "image": "aquarium8.jpg"},
+    {"id": 9, "name": "Аквариум 150л", "price": 7500, "category": "aquariums", "description": "Универсальный аквариум для пресной воды. Размеры: 90x40x40 см.", "image": "aquarium9.jpg"},
+    {"id": 10, "name": "Аквариум 250л", "price": 11000, "category": "aquariums", "description": "Идеален для акваскейпинга. Размеры: 110x45x50 см.", "image": "aquarium10.jpg"},
+    // ... до 50 записей (добавьте еще 40 аналогичных записей с разными размерами и ценами)
+    {"id": 50, "name": "Аквариум 1000л", "price": 35000, "category": "aquariums", "description": "Профессиональный аквариум для выставок. Размеры: 200x80x80 см.", "image": "aquarium50.jpg"}
+  ],
+  "equipment": [
+    {"id": 51, "name": "Фильтр 500л/ч", "price": 2500, "category": "equipment", "description": "Мощный фильтр для аквариумов до 100 л.", "image": "equipment1.jpg"},
+    {"id": 52, "name": "Фильтр 1000л/ч", "price": 4000, "category": "equipment", "description": "Фильтр для аквариумов до 200 л.", "image": "equipment2.jpg"},
+    {"id": 53, "name": "LED свет 30W", "price": 3500, "category": "equipment", "description": "Энергоэффективный свет для растений.", "image": "equipment3.jpg"},
+    {"id": 54, "name": "LED свет 50W", "price": 5500, "category": "equipment", "description": "Мощный свет для морских аквариумов.", "image": "equipment4.jpg"},
+    {"id": 55, "name": "Помпа 1000л/ч", "price": 2000, "category": "equipment", "description": "Циркуляция воды для средних аквариумов.", "image": "equipment5.jpg"},
+    {"id": 56, "name": "Помпа 2000л/ч", "price": 3500, "category": "equipment", "description": "Для больших аквариумов и рифов.", "image": "equipment6.jpg"},
+    {"id": 57, "name": "Термостат 200W", "price": 3000, "category": "equipment", "description": "Регулировка температуры до 200 л.", "image": "equipment7.jpg"},
+    {"id": 58, "name": "Термостат 300W", "price": 4500, "category": "equipment", "description": "Для аквариумов от 200 л.", "image": "equipment8.jpg"},
+    {"id": 59, "name": "Обогреватель 100W", "price": 1500, "category": "equipment", "description": "Компактный обогрев для малых аквариумов.", "image": "equipment9.jpg"},
+    {"id": 60, "name": "УФ-стерилизатор 9W", "price": 4000, "category": "equipment", "description": "Для очистки воды от бактерий.", "image": "equipment10.jpg"},
+    // ... до 70 записей (добавьте еще 10 записей, например, насосы, скримеры, охладители)
+    {"id": 70, "name": "Скиммер 500л", "price": 6000, "category": "equipment", "description": "Профессиональный скиммер для морских аквариумов.", "image": "equipment20.jpg"}
+  ],
+  "accessories": [
+    {"id": 71, "name": "Грунт 5кг", "price": 1500, "category": "accessories", "description": "Натуральный грунт для аквариума.", "image": "aquarium1.jpg"},
+    {"id": 72, "name": "Грунт 10кг", "price": 2500, "category": "accessories", "description": "Для больших аквариумов.", "image": "aquarium2.jpg"},
+    {"id": 73, "name": "Тестер pH", "price": 2000, "category": "accessories", "description": "Для проверки уровня pH воды.", "image": "equipment1.jpg"},
+    {"id": 74, "name": "Тестер NO3", "price": 2500, "category": "accessories", "description": "Измерение нитратов.", "image": "equipment2.jpg"},
+    {"id": 75, "name": "Декор коралл", "price": 1000, "category": "accessories", "description": "Искусственный коралловый декор.", "image": "aquarium3.jpg"},
+    {"id": 76, "name": "Декор скала", "price": 1500, "category": "accessories", "description": "Натуральная скала для дизайна.", "image": "aquarium4.jpg"},
+    {"id": 77, "name": "Фон аквариумный", "price": 800, "category": "accessories", "description": "Декоративный фон для аквариума.", "image": "aquarium5.jpg"},
+    {"id": 78, "name": "Фильтрующий уголь 1кг", "price": 1200, "category": "accessories", "description": "Для очистки воды.", "image": "equipment3.jpg"},
+    {"id": 79, "name": "Саше для растений", "price": 900, "category": "accessories", "description": "Удобрение для аквариумных растений.", "image": "aquarium6.jpg"},
+    {"id": 80, "name": "Сетка для сачков", "price": 700, "category": "accessories", "description": "Для ловли рыб.", "image": "equipment4.jpg"},
+    {"id": 81, "name": "Трубка для сифона", "price": 600, "category": "accessories", "description": "Для чистки грунта.", "image": "equipment5.jpg"},
+    {"id": 82, "name": "Керамические кольца 1л", "price": 1500, "category": "accessories", "description": "Для биологической фильтрации.", "image": "equipment6.jpg"},
+    {"id": 83, "name": "Декор ракушка", "price": 1200, "category": "accessories", "description": "Декоративная ракушка.", "image": "aquarium7.jpg"},
+    {"id": 84, "name": "Термошланг 2м", "price": 1800, "category": "accessories", "description": "Для обогревателей.", "image": "equipment7.jpg"},
+    {"id": 85, "name": "Крышка аквариумная", "price": 2000, "category": "accessories", "description": "Пластиковая крышка с подсветкой.", "image": "aquarium8.jpg"}
+  ],
+  "food": [
+    {"id": 86, "name": "Корм для гуппи", "price": 500, "category": "food", "description": "Специальный корм для гуппи.", "image": "fish1.jpg"},
+    {"id": 87, "name": "Корм для дискусов", "price": 1500, "category": "food", "description": "Премиум корм для дискусов.", "image": "fish2.jpg"},
+    {"id": 88, "name": "Корм для неонов", "price": 600, "category": "food", "description": "Сбалансированный корм для неонов.", "image": "fish3.jpg"},
+    {"id": 89, "name": "Корм для креветок", "price": 700, "category": "food", "description": "Для пресноводных креветок.", "image": "fish4.jpg"},
+    {"id": 90, "name": "Корм для сомов", "price": 800, "category": "food", "description": "Для донных рыб.", "image": "fish5.jpg"},
+    {"id": 91, "name": "Корм для кораллов", "price": 2000, "category": "food", "description": "Питание для морских кораллов.", "image": "fish6.jpg"},
+    {"id": 92, "name": "Замороженный корм", "price": 1200, "category": "food", "description": "Артемия и дафния.", "image": "fish7.jpg"},
+    {"id": 93, "name": "Гран granules 100g", "price": 900, "category": "food", "description": "Гранулы для средних рыб.", "image": "fish8.jpg"},
+    {"id": 94, "name": "Флэйк для тетр", "price": 700, "category": "food", "description": "Хлопья для стайных рыб.", "image": "fish9.jpg"},
+    {"id": 95, "name": "Таблетки для улиток", "price": 500, "category": "food", "description": "Питание для аквариумных улиток.", "image": "fish10.jpg"}
+  ],
+  "fish": [
+    {"id": 96, "name": "Гуппи", "price": 200, "category": "fish", "description": "Яркие пресноводные рыбы.", "image": "fish1.jpg"},
+    {"id": 97, "name": "Дискус", "price": 1500, "category": "fish", "description": "Экзотическая рыба для больших аквариумов.", "image": "fish2.jpg"},
+    {"id": 98, "name": "Неон", "price": 300, "category": "fish", "description": "Маленькая стайная рыба.", "image": "fish3.jpg"},
+    {"id": 99, "name": "Скалярия", "price": 1200, "category": "fish", "description": "Грациозная рыба с красивыми плавниками.", "image": "fish4.jpg"},
+    {"id": 100, "name": "Сомик панда", "price": 400, "category": "fish", "description": "Мирный донный сом.", "image": "fish5.jpg"},
+    {"id": 101, "name": "Барбус", "price": 350, "category": "fish", "description": "Активная стайная рыба.", "image": "fish6.jpg"},
+    {"id": 102, "name": "Тетра", "price": 250, "category": "fish", "description": "Мелкие рыбы для сообщества.", "image": "fish7.jpg"},
+    {"id": 103, "name": "Коридорас", "price": 500, "category": "fish", "description": "Донный сом с забавным поведением.", "image": "fish8.jpg"},
+    {"id": 104, "name": "Молли", "price": 300, "category": "fish", "description": "Простая в уходе рыба.", "image": "fish9.jpg"},
+    {"id": 105, "name": "Плати", "price": 350, "category": "fish", "description": "Яркие рыбы с разнообразием окраса.", "image": "fish10.jpg"}
+  ],
+  "services": [
+    {"id": 106, "name": "Установка аквариума", "price": 10000, "category": "services", "description": "Полная установка под ключ.", "image": "aquarium1.jpg"},
+    {"id": 107, "name": "Чистка аквариума", "price": 2000, "category": "services", "description": "Профессиональная чистка.", "image": "aquarium2.jpg"},
+    {"id": 108, "name": "Запуск аквариума", "price": 5000, "category": "services", "description": "Подготовка и запуск системы.", "image": "aquarium3.jpg"},
+    {"id": 109, "name": "Ремонт аквариума", "price": 3000, "category": "services", "description": "Исправление трещин и протечек.", "image": "aquarium4.jpg"},
+    {"id": 110, "name": "Дизайн аквариума", "price": 5000, "category": "services", "description": "Индивидуальный дизайн интерьера.", "image": "aquarium5.jpg"},
+    {"id": 111, "name": "Консультация", "price": 1000, "category": "services", "description": "Экспертная помощь онлайн или офлайн.", "image": "aquarium6.jpg"},
+    {"id": 112, "name": "Обслуживание", "price": 3000, "category": "services", "description": "Ежемесячное обслуживание аквариума.", "image": "aquarium7.jpg"},
+    {"id": 113, "name": "Транспортировка", "price": 4000, "category": "services", "description": "Доставка и установка аквариума.", "image": "aquarium8.jpg"},
+    {"id": 114, "name": "Анализ воды", "price": 1500, "category": "services", "description": "Проверка параметров воды.", "image": "aquarium9.jpg"},
+    {"id": 115, "name": "Ремонт оборудования", "price": 2500, "category": "services", "description": "Ремонт фильтров и помп.", "image": "aquarium10.jpg"}
+  ]
+}
